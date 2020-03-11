@@ -2,7 +2,7 @@ import axios from "axios";
 
 let config = {
   baseURL: "https://api.github.com",
-  timeout: 5000 // Timeout
+  // timeout: 5000 // Timeout
   // withCredentials: true, // Check cross-sit e Access-Control
 };
 
